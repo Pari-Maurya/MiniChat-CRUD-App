@@ -110,26 +110,6 @@ Each chat message contains a **Delete Chat** button that permanently removes the
 5. New chats are created using `views/new.ejs`.
 6. Existing chats can be updated through `views/edit.ejs`.
 
-## Learning Outcomes
-
-This project helped in understanding:
-
-* Express.js routing
-* MongoDB database operations
-* Mongoose schemas and models
-* RESTful architecture
-* Server-side rendering using EJS
-* CRUD implementation in full-stack applications
-
-## Future Enhancements
-
-* User authentication and authorization
-* Real-time messaging with Socket.io
-* Chat rooms and private conversations
-* Improved UI/UX design
-* Search and filter functionality
-* Timestamps for chat messages
-
 ## Author
 
 Developed as a learning project to understand CRUD operations using Node.js, Express.js, MongoDB, and Mongoose.
